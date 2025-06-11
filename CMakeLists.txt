@@ -9,6 +9,7 @@ add_executable(Clipse main.cpp
         Macros/action.cpp
         Macros/action.h
         Macros/keyMap.h
+        Macros/input.h
         KeyboardHook/hook.cpp
         KeyboardHook/hook.h
-        Macros/input.h)
+)
