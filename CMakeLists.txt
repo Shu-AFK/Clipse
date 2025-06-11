@@ -12,4 +12,5 @@ add_executable(Clipse main.cpp
         Macros/input.h
         KeyboardHook/hook.cpp
         KeyboardHook/hook.h
+        defines.h
 )
